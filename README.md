@@ -1,1 +1,1 @@
-# My capstone project for the Meta Front-End Developer Professional Certificate
+# Yeshi Lhendup Meat Front End developer 
