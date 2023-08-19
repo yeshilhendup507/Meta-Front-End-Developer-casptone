@@ -10,6 +10,7 @@ const Hero = () => {
         <div className="hero-information">
           <h1>Little Lemon</h1>
           <h2>Chicago</h2>
+          <h3>My Resturent</h3>
           <p>
             We are a family owned Mediterranean restaurant, 
             focused on traditional recipes served with a modern twist.
